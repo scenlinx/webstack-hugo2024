@@ -3,4 +3,4 @@
 
 ## 导航地址
 - [https://tool.newmt.fun](https://tool.newmt.fun) 
-- [https://pan.newmt.fun](https://pan.newmt.fun) 
+- [https://nav.newmt.fun](https://pan.newmt.fun) 
