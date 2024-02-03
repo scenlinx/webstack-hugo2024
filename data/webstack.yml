@@ -1,0 +1,831 @@
+---
+
+- taxonomy: 常用推荐
+  icon: fa-regular fa-star
+  links: 
+        - title: 关注我们
+          logo: newmt.fun.png
+          url: https://m.newmt.fun
+          qrcode: assets/images/logos/qrcode.jpg
+          description: 新媒体运营 爱好者！
+        - title: ChatGPT使用
+          logo: chat.openai.com.png
+          url: https://ai.newmt.fun/
+          description: ChatGPT使用
+        - title: 抖音创作者中心
+          logo: creator.douyin.com.png
+          url: https://creator.douyin.com/
+          description: 抖音创作者的专属服务平台。
+        - title: 微信公众平台
+          logo: mp.weixin.qq.com.png
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌。
+        - title: 搜狗微信
+          logo: weixin.sogou.com.png
+          url: https://weixin.sogou.com/
+          description: 搜狗微信搜索，一搜即达。
+        - title: 36Kr
+          logo: 36kr.com.png
+          url: https://36kr.com/
+          description: 让一部分人先看到未来。  
+        - title: 创客贴
+          logo: www.chuangkit.com.png
+          url: https://www.chuangkit.com/
+          description: 图片编辑,在线设计,视频编辑。
+        - title: 学信网
+          logo: www.chsi.com.cn.png
+          url: http://www.chsi.com.cn/
+          description: 教育部学历查询网站、教育部高校招生阳光工程指定网站、全国硕士研究生招生报名和调剂指定网站。
+        - title: 百度翻译
+          logo: fanyi.baidu.com.png
+          url: http://fanyi.baidu.com/
+          description: 百度翻译提供即时免费200+语言翻译服务。
+        - title: GitHub
+          logo: github.com.png
+          url: https://github.com/
+          description: GitHub 开源社区。
+        - title: YouTube
+          logo: www.youtube.com.png
+          url: https://www.youtube.com/
+          description: 与亲朋好友及全世界分享你的视频。  
+
+- taxonomy: 新媒运营
+  icon: fa-brands fa-tiktok
+  list:
+    - term: 抖音工具
+      links:     
+        - title: 抖音创作者中心
+          logo: creator.douyin.com.png
+          url: https://creator.douyin.com/
+          description: 抖音创作者的专属服务平台
+        - title: 企业抖音后台
+          logo: e.douyin.com.png
+          url: https://e.douyin.com/
+          description: 企业抖音后台。
+        - title: 抖音来客
+          logo: life.douyin.com.png
+          url: https://life.douyin.com/
+          description: 抖音本地，生活服务。
+        - title: DOU+
+          logo: doujia.douyin.com.png
+          url: https://doujia.douyin.com/
+          description: 上热门，用DOU+。
+        - title: 巨量算数
+          logo: trendinsight.oceanengine.com.png
+          url: https://trendinsight.oceanengine.com/
+          description: 洞悉内容背后的规律和趋势。
+        - title: 巨量引擎
+          logo: business.oceanengine.com.png
+          url: https://business.oceanengine.com/arithmetic-index
+          description: 巨量引擎工作台、投放分析、投放管理、营销协作、营销分析。
+        - title: 巨量创意
+          logo: cc.oceanengine.com.png
+          url: https://cc.oceanengine.com/
+          description: 营销创意解决方案的提供者、引领者、激发者。 
+        - title: 抖店
+          logo: fxg.jinritemai.com.png
+          url: https://fxg.jinritemai.com/login/common
+          description: 抖店-抖音电商入驻平台。
+        - title: 抖音电商学习中心
+          logo: school.jinritemai.com.png
+          url: https://school.jinritemai.com/
+          description: 抖音电商官方学习平台。
+        - title: 抖音AR特效
+          logo: effect.douyin.com.png
+          url: https://effect.douyin.com/
+          description: 抖音AR特效创作者，开放平台
+
+    - term: 资讯热点
+      links:     
+        - title: 虎嗅
+          logo: www.huxiu.com.png
+          url: https://www.huxiu.com/article/
+          description: 科技资讯，商业评论。
+        - title: 知乎
+          logo: www.zhihu.com.png
+          url: https://www.zhihu.com/knowledge-plan/hot-question/hot/0/hour
+          description: 有问题，就会有答案
+        - title: 豆瓣
+          logo: www.douban.com.png
+          url: https://www.douban.com/
+          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活
+        - title: IT之家
+          logo: www.ithome.com.png
+          url: https://www.ithome.com/
+          description: 快速播报科技行业新闻头条快讯
+        - title: CSDN
+          logo: passport.csdn.net.png
+          url: https://passport.csdn.net/
+          description: 专业IT技术社区
+        - title: 梅花网
+          logo: www.meihua.info.png
+          url: https://www.meihua.info/
+          description: 营销作品宝库
+        - title: 人人都是产品经理
+          logo: www.woshipm.com.png
+          url: https://www.woshipm.com/
+          description: 产品经理、产品爱好者学习交流平台
+        - title: 亿邦动力
+          logo: www.ebrun.com.png
+          url: https://www.ebrun.com/
+          description: 电商知识服务平台
+        - title: IT桔子
+          logo: www.itjuzi.com.png
+          url: https://www.itjuzi.com/
+          description: 泛互联网创业投资项目信息数据库及商业信息服务商
+        - title: 活动行
+          logo: www.huodongxing.com.png
+          url: https://www.huodongxing.com/
+          description: 发现精彩城市生活-活动发布及直播平台
+
+    - term: 新媒平台
+      links:  
+        - title: 微博
+          logo: weibo.com.png
+          url: https://weibo.com/
+          description: 随时随地发现新鲜事
+        - title: 快手创作者服务平台
+          logo: cp.kuaishou.com.png
+          url: https://cp.kuaishou.com/profile
+          description: 为创作者/机构提供强大的运营管理、数据分析、内容生产等辅助工具、依托平台丰富的资源提供热点趋势，更好的服务每个创作者。
+        - title: 小红书创作服务平台
+          logo: creator.xiaohongshu.com.png
+          url: https://creator.xiaohongshu.com/login
+          description: 为小红书创作者和机构提供视频上传、数据分析、粉丝管理、创作指导等多项运营服务，助力用户解锁更多创作者专属功能，体验高效创作！
+        - title: 视频号助手
+          logo: channels.weixin.qq.com.png
+          url: https://channels.weixin.qq.com/login.html
+          description: 微信为视频号创作者提供内容上传管理、数据查询等功能的专属服务平台。
+        - title: 哔哩哔哩（bilibili.com)
+          logo: passport.bilibili.com.png
+          url: https://passport.bilibili.com/
+          description: 国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。
+        - title: 百家号
+          logo: baijiahao.baidu.com.png
+          url: https://baijiahao.baidu.com/
+          description: 百度为创作者打造的集创作、发布、变现于一体的内容创作平台
+        - title: 头条号
+          logo: mp.toutiao.com.png
+          url: https://mp.toutiao.com/
+          description: 你创作的，就是头条
+        - title: 搜狐号
+          logo: mp.sohu.com.png
+          url: https://mp.sohu.com/
+          description: 再小的个体，也能获得影响力
+        - title: 网易号
+          logo: mp.163.com.png
+          url: https://mp.163.com/
+          description: 用创作，传递态度
+        - title: 腾讯内容开放平台
+          logo: om.qq.com.png
+          url: https://om.qq.com/
+          description: 腾讯内容开放平台
+
+
+- taxonomy: 在线工具
+  icon: fa-solid fa-screwdriver-wrench
+  list: 
+    - term: AI工具
+      links: 
+        - title: 文心一言
+          logo: yiyan.baidu.com.png
+          url: https://yiyan.baidu.com/
+          description: 作为你的智能伙伴，我既能写文案、想点子，又能你陪你聊天、答疑解惑。
+        - title: ChatGPT
+          logo: chat.openai.com.png
+          url: https://chat.openai.com/
+          description: ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.
+        - title: Copilot
+          logo: copilot.microsoft.com.png
+          url: https://copilot.microsoft.com/
+          description: Microsoft Copilot 利用 AI 的强大功能来提高工作效率、释放创造力，并通过简单的聊天体验帮助你更好地理解信息。
+        - title: Gemini
+          logo: makersuite.google.com.png
+          url: https://makersuite.google.com/
+          description: Gemini由Google Research和DeepMind等多个Alphabet团队共同打造。
+        - title: Bard
+          logo: bard.google.com.png
+          url: https://bard.google.com/chat
+          description: Google 的实验性 AI 项目，可以生成文本、翻译语言、撰写不同类型的创意内容等等。
+        - title: Discord
+          logo: discord.com.png
+          url: https://discord.com/login
+          description: 玩耍聊天的地方
+        - title: Poe
+          logo: poe.com.png
+          url: https://poe.com/
+          description: 提供GPT-4、gpt-3.5-turbo、Anthropic Claude以及其他多种机器人的访问权限。Poe可让您提问、获得即时回答、并与AI机器人互动对话。
+        - title: Replika
+          logo: my.replika.com.png
+          url: https://my.replika.com/
+          description: 人工智能聊天机器人产品
+        - title: 筷子科技
+          logo: kuaizi.ai.png
+          url: https://kuaizi.ai/
+          description: AI一键成片，不用编不用剪，人人都能做商业短视频。
+        - title: 闪剪
+          logo: shanjian.tv.png
+          url: https://shanjian.tv/
+          description: AI智能剪辑，在线视频制作平台
+        - title: 腾讯智影
+          logo: zenvideo.qq.com.png
+          url: https://zenvideo.qq.com/
+          description: 腾讯智影是一款云端智能视频创作工具
+        - title: 一帧秒创
+          logo: aigc.yizhentv.com.png
+          url: https://aigc.yizhentv.com/
+          description: AI视频创作,数字人,图文转视频,智能内容创作平台。
+        - title: 秘塔写作猫
+          logo: xiezuocat.com.png
+          url: https://xiezuocat.com/
+          description: 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体
+        - title: 智媒AI伪原创
+          logo: www.zhimeiai.cn.png
+          url: https://www.zhimeiai.cn/
+          description: 在线伪原创工具，ai智能写作助手
+        - title: 勺捏AI智能伪原创
+          logo: www.shaonie.com.png
+          url: https://www.shaonie.com/
+          description: 免费在线伪原创文章生成器，勺捏AI智能伪原创工具自动写作机器人
+
+    - term: 创作工具
+      links: 
+        - title: 135编辑器
+          logo: www.135editor.com.png
+          url: https://www.135editor.com/beautify_editor.html    
+          description: 微信公众号图文排版工具，一键在线文章内容编辑器
+        - title: 秀米
+          logo: xiumi.us.png
+          url: https://xiumi.us/#/studio/papers
+          description: 公众号图文编辑器和H5制作
+        - title: 易撰自媒体工具
+          logo: www.yizhuan5.com.png
+          url: https://www.yizhuan5.com/
+          description: 基于数据挖掘技术把各大自媒体平台内容进行整合分析，实时热点追踪，爆文素材，视频素材及原创度检测等服务。
+        - title: 5118营销大数据
+          logo: www.5118.com.png
+          url: https://www.5118.com/
+          description: 长尾关键词挖掘，站长工具，智能改写
+        - title: 稿定设计
+          logo: www.gaoding.com.png
+          url: https://www.gaoding.com/
+          description: 在线设计神奇。
+        - title: 33台词
+          logo: 33.agilestudio.cn.png
+          url: https://33.agilestudio.cn/
+          description: 通过台词找影片素材
+        - title: 找台词
+          logo: zhaotaici.cn.png
+          url: https://zhaotaici.cn/
+          description: 台词片段、截图、视频片段
+        - title: 零克查词
+          logo: ci.lingke.pro.png
+          url: https://ci.lingke.pro/
+          description: 专业的小红书、抖音、B站、小红书敏感词检测工具
+        - title: WantQuotes据意查句
+          logo: wantquotes.net.png
+          url: https://wantquotes.net/
+          description: 通过描述的意思来查找名句，包括名人名言、古诗词和文言文名句、谚语俗语歇后语等。
+        - title: 爱校对官网
+          logo: www.ijiaodui.com.png
+          url: https://www.ijiaodui.com/
+          description: 免费高效的错别字检查工具
+        - title: 媒想到
+          logo: www.94mxd.com.cn.png
+          url: https://www.94mxd.com.cn/
+          description: 新媒体营销增长引擎，裂变海报、任务宝、消息宝、分享宝、营销插件、分销、拼团、活码、群发宝、商城
+        - title: 星耀裂变
+          logo: www.xyookj.com.png
+          url: https://www.xyookj.com/
+          description: 微信裂变、私域流量、视频号分销、小店分销、活码、裂变营销
+        - title: 易企秀
+          logo: www.eqxiu.com.png
+          url: https://www.eqxiu.com/
+          description: 免费H5页面制作,作图工具,H5邀请函,海量模板,创意营销平台,微场景制作,易企秀官网
+        - title: iH5
+          logo: www.ih5.cn.png
+          url: https://www.ih5.cn/
+          description: 专业的H5制作工具
+        - title: 七牛云
+          logo: www.qiniu.com.png
+          url: https://www.qiniu.com/
+          description: 一站式场景化智能音视频 APaaS
+
+    - term: 电商工具
+      links: 
+        - title: 蝉妈妈
+          logo: www.chanmama.com.png
+          url: https://www.chanmama.com/douyin
+          description: 内容营销与电商增长一站式服务平台
+        - title: 飞瓜数据
+          logo: www.feigua.cn.png
+          url: https://www.feigua.cn/
+          description: 飞瓜数据是短视频领域权威的数据分析平台，提供抖音数据和快手数据等
+        - title: 抖查查
+          logo: www.douchacha.com.png
+          url: https://www.douchacha.com/workbench
+          description: 短视频直播带货电商大数据分析平台
+        - title: 大淘客联盟
+          logo: www.dataoke.com.png
+          url: https://www.dataoke.com/
+          description: 专注优质商品内容打造，为广大淘宝客提供精选商品，节省时间及人力成本！
+        - title: 电霸
+          logo: pdd.dianba6.com.png
+          url: https://pdd.dianba6.com/login
+          description: 拼多多运营最优秀的大数据分析系统
+
+
+    - term: 在线文档
+      links: 
+        - title: 语雀
+          logo: www.yuque.com.png
+          url: https://www.yuque.com/
+          description: 专业的云端知识库。   
+        - title: 金山文档
+          logo: www.kdocs.cn.png
+          url: https://www.kdocs.cn/
+          description: 金山文档是一款可多人实时协作编辑的在线文档。
+        - title: 石墨文档
+          logo: shimo.im.png
+          url: https://shimo.im/
+          description: 全新一代云Office办公软件,支持多人在线文档协同办公。
+        - title: 飞书云文档
+          logo: docs.feishu.cn.png
+          url: https://docs.feishu.cn/
+          description: 可多人实时编辑的在线文档（文档、表格、思维笔记）高效协同办公软件。
+        - title: 腾讯文档
+          logo: docs.qq.com.png
+          url: https://docs.qq.com/
+          description: 腾讯文档，在线编辑，办公文档，协同编辑，多人协作。
+        - title: 腾讯问卷
+          logo: wj.qq.com.png
+          url: https://wj.qq.com/
+          description: 免费好用的问卷调查系统。
+        - title: 有道翻译
+          logo: fanyi.youdao.com.png
+          url: http://fanyi.youdao.com/
+          description: 网易有道翻译_史上最强大的翻译生产力工具。
+        - title: DeepL翻译
+          logo: www.deepl.com.png
+          url: http://www.deepl.com/translator
+          description: DeepL翻译：全世界最准确的翻译
+        - title: 必应翻译
+          logo: www.bing.com/translator.png
+          url: http://www.bing.com/translator
+          description: 快速翻译英语和 100 多种语言之间的字词和短语
+        - title: 谷歌翻译
+          logo: translate.google.com.png
+          url: http://translate.google.com/
+          description: 可在简体中文和其他100 多种语言之间即时翻译字词、短语和网页。
+
+    - term: 其他工具
+      links:  
+        - title: ToolB
+          logo: toolb.cn.png
+          url: https://toolb.cn/
+          description: 在线工具 - ToolB
+        - title: MikuTools
+          logo: okmiku.com.png
+          url: https://okmiku.com/
+          description: 一个轻量的工具集合
+        - title: 草料二维码
+          logo: cli.im.png
+          url: https://cli.im/
+          description: 二维码生成器。
+        - title: TTS-Online
+          logo: www.ttson.cn.png
+          url: https://www.ttson.cn/
+          description: 在线免费文本转语音，多种声音与二次元语音
+        - title: 剪映字幕
+          logo: jy.mzh.ren.png
+          url: https://jy.mzh.ren/
+          description: 剪映字幕导入导出。
+        - title: XAudioPro
+          logo: www.xaudiopro.com/easyedit/.png
+          url: https://www.xaudiopro.com/easyedit/
+          description: 在线音频工作站，让音频编辑更轻松
+        - title: VDO.Ninja
+          logo: vdo.ninja.png
+          url: https://vdo.ninja/
+          description: 做最便宜的监控，旧手机变监控摄像头
+        - title: Base64
+          logo: base64.us.png
+          url: https://base64.us/
+          description: 在线编码解码
+        - title: 绿盾征信
+          logo: www.11315.com.png
+          url: https://www.11315.com/
+          description: 工商信息查询_信用报告查询_信用评价工具_企业信用信息系统
+        - title: 12315
+          logo: www.12315.cn.png
+          url: https://www.12315.cn/
+          description: 全国12315平台
+
+    - term: 邮箱服务
+      links:  
+        - title: QQ 邮箱
+          logo: mail.qq.com.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。
+        - title: 163邮箱
+          logo: mail.163.com.png
+          url: https://mail.163.com/
+          description: 你的专业电子邮局
+        - title: Outlook邮箱
+          logo: outlook.live.com.png
+          url: https://outlook.live.com/mail/0/
+          description: 微软Outlook邮箱
+        - title: Gmail邮箱
+          logo: mail.google.com.png
+          url: https://mail.google.com/
+          description: Gmail 是一款直观、高效、实用的电子邮件应用
+        - title: Proton Mail
+          logo: mail.proton.me.png
+          url: https://mail.proton.me/
+          description: ProtonMail是一款以安全著称的端到端加密邮箱
+        - title: 新浪邮箱
+          logo: mail.sina.com.cn.png
+          url: http://mail.sina.com.cn/
+          description: 新浪邮箱，提供以@sina.com和@sina.cn为后缀的免费邮箱
+        - title: 搜狐邮箱
+          logo: mail.sohu.com.png
+          url: https://mail.sohu.com/fe/#/login
+          description: 搜狐闪电邮箱
+        - title: 阿里邮箱
+          logo: mail.aliyun.com.png
+          url: https://mail.aliyun.com/
+          description: 阿里邮箱个人版为用户提供高效稳定便捷的电子邮箱服务
+        - title: 139邮箱
+          logo: mail.10086.cn.png
+          url: https://mail.10086.cn/
+          description: 139邮箱是中国移动提供的电子邮件业务，以手机号@139.com作为邮箱地址
+        - title: 临时邮箱
+          logo: 24mail.chacuo.net.png
+          url: http://24mail.chacuo.net/
+          description: 在线生成临时邮箱、十分钟邮箱（10分钟)
+
+
+- taxonomy: 悠闲娱乐
+  icon: fa-solid fa-film
+  list:
+    - term: 影音娱乐
+      links:       
+        - title: B站
+          logo: www.bilibili.com.png
+          url: https://www.bilibili.com/
+          description: 国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主，大家可以在这里找到许多欢乐   
+        - title: 西瓜视频
+          logo: www.ixigua.com.png
+          url: https://www.ixigua.com/
+          description: 国内领先的中视频平台，它源源不断地为不同人群提供优质内容，让人们看到更丰富和有深度的世界，收获轻松的获得感
+        - title: 新片场
+          logo: www.xinpianchang.com.png
+          url: https://www.xinpianchang.com/
+          description: 发现全球优质视频与创作人，与百万创作人一起成长
+        - title: 抖音
+          logo: www.douyin.com.png
+          url: https://www.douyin.com/
+          description: 抖音，记录美好生活
+        - title: 快手
+          logo: www.kuaishou.com.png
+          url: https://www.kuaishou.com/
+          description: 快手，拥抱每一种生活
+        - title: 爱奇艺
+          logo: www.iqiyi.com.png
+          url: https://www.iqiyi.com/
+          description: 在线视频网站，海量正版高清视频在线观看
+        - title: 腾讯视频
+          logo: v.qq.com.png
+          url: https://v.qq.com/
+          description: 中国领先的在线视频媒体平台，海量高清视频在线观看
+        - title: 优酷
+          logo: www.youku.com.png
+          url: https://www.youku.com/
+          description: 为好内容全力以赴，海量正版高清视频在线观看
+        - title: 电影天堂
+          logo: www.dygod.net.png
+          url: https://www.dygod.net/
+          description: 电影天堂，最好的迅雷电影下载网，分享最新电影，高清电影下载
+        - title: 迷客电影
+          logo: www.mini4k.com.png
+          url: https://www.mini4k.com/
+          description: 每日更新最新电影资源，2160P、4K等超高清分辨率电影下载
+        - title: 阳光电影
+          logo: www.dytt8.com.png
+          url: https://www.dytt8.com/
+          description: 最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载
+        - title: 中国高清网
+          logo: gaoqing.la.png
+          url: https://gaoqing.la/
+          description: 1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载
+      
+- taxonomy: 素材资源
+  icon: fa-regular fa-folder-open
+  list:
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: pan.baidu.com.png
+          url: http://pan.baidu.com/
+          description: 为你电脑/手机中的文件提供云备份、预览、分享等服务，帮你更便捷安全地管理数据。
+        - title: 阿里云盘
+          logo: www.aliyundrive.com.png
+          url: https://www.alipan.com/sign/in
+          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
+        - title: 天翼云盘
+          logo: cloud.189.cn.png
+          url: https://cloud.189.cn/web/login.html
+          description: 家庭云|网盘|文件备份|资源分享
+        - title: 移动云盘
+          logo: yun.139.com.png
+          url: https://yun.139.com/
+          description: 中国移动面向所有用户推出的一款安全、智能、不限速、移动用户免流量的产品
+        - title: 夸克网盘
+          logo: pan.quark.cn.png
+          url: https://pan.quark.cn/
+          description: 电脑高效拍档，一键存爽快
+        - title: 123云盘
+          logo: www.123pan.com.png
+          url: https://www.123pan.com/login
+          description: 国内首创，云盘全格式文件可通过URL直链链接提取
+        - title: 115网盘
+          logo: 115.com.png
+          url: https://115.com/
+          description: 专业、安全、好用的个人云存储，让美好与你一生相伴
+        - title: PikPak网盘
+          logo: mypikpak.com.png
+          url: https://mypikpak.com/zh-CN
+          description: 极速秒存的私密云盘
+        - title: 腾讯微云
+          logo: www.weiyun.com.png
+          url: https://www.weiyun.com/
+          description: 微云是腾讯公司为用户精心打造的一项智能云服务
+        - title: 网盘搜索
+          logo: wp.soshoulu.com.png
+          url: http://wp.soshoulu.com/
+          description: 收录网网盘搜索引擎收录了数十款百度网盘搜索引擎
+        
+    - term: 软件下载
+      links:
+        - title: 联想应用商店
+          logo: lestore.lenovo.com.png
+          url: https://lestore.lenovo.com/
+          description: 联想应用商店为广大用户提供一站式的软件、游戏的极速下载,所有软件都通过人工亲测,安全无忧。
+        - title: 360软件宝库
+          logo: baoku.360.cn.png
+          url: https://baoku.360.cn/
+          description: 所有内容通过360安全中心检测，无木马病毒，无诱导广告，热门资源放心下载,尽在360软件宝库。
+        - title: 腾讯软件中心
+          logo: pc.qq.com.png
+          url: https://pc.qq.com/
+          description: 腾讯软件中心提拱海量免费软件安全下载，全部软件都已经过安全杀毒检测。
+        - title: Google Play
+          logo: play.google.com.png
+          url: https://play.google.com/store/apps
+          description: 最新的 Android 应用、游戏、音乐、电影、电视节目、图书、杂志等精彩内容
+        - title: HelloWindows
+          logo: hellowindows.cn.png
+          url: https://hellowindows.cn/
+          description: 精校 完整 极致 Windows系统下载仓储站。 
+        - title: 吾爱破解
+          logo: www.52pojie.cn.png
+          url: https://www.52pojie.cn/
+          description: 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护
+        - title: 易破解
+          logo: www.ypojie.com.png
+          url: https://www.ypojie.com/
+          description: 专注无流氓绿色软件分享、游戏下载、电脑技术、经验教程为一体的站点、安全、纯净、放心、八年磨一剑，不忘初心只为给你最需要的内容
+        - title: 卡饭论坛
+          logo: bbs.kafan.cn.png
+          url: https://bbs.kafan.cn/
+          description: 最好的软件论坛
+        - title: 龋齿一号
+          logo: www.gfxcamp.com.png
+          url: https://www.gfxcamp.com/
+          description: CG营地，高速下载最新CG素材资源
+        - title: Moo0
+          logo: zhs.moo0.com.png
+          url: https://zhs.moo0.com/
+          description: Windows有用的免费软件
+      
+
+- taxonomy: 学习资源
+  icon: fa-solid fa-graduation-cap
+  list: 
+    - term: 文献学习
+      links:
+        - title: 中国大学MOOC
+          logo: www.icourse163.org.png
+          url: https://www.icourse163.org/
+          description: 优质在线课程学习平台
+        - title: 学堂在线
+          logo: www.xuetangx.com.png
+          url: https://www.xuetangx.com/
+          description: 学堂在线是清华大学于2013年10月发起建立的慕课平台
+        - title: TED
+          logo: www.ted.com.png
+          url: https://www.ted.com/
+          description: Ideas Worth Spreading
+        - title: doyoudo
+          logo: doyoudo.com.png
+          url: https://doyoudo.com/free
+          description: 创意设计软件学习平台
+        - title: 慕课网
+          logo: www.imooc.com.png
+          url: https://www.imooc.com/course/list
+          description: 慕课网（IMOOC）的使命传播互联网最前沿技术，帮助更多的人实现梦想！
+        - title: 中国近代影像资料库
+          logo: www.lzp360.com.png
+          url: https://www.lzp360.com/
+          description: 图说历史，洞见未来
+        - title: 中国国家图书馆
+          logo: www.nlc.cn.png
+          url: https://www.nlc.cn/
+          description: 国家图书馆总馆，国家典籍博物馆
+        - title: 书格
+          logo: www.shuge.org.png
+          url: https://www.shuge.org/
+          description: 有品格的数字古籍图书馆
+        - title: 中国知网
+          logo: www.cnki.net.png
+          url: https://www.cnki.net/
+          description: 面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务
+        - title: 书栈网
+          logo: www.bookstack.cn.png
+          url: https://www.bookstack.cn/
+          description: 开源文库系统，类百度文库解决方案
+
+        - title: 百度学术
+          logo: xueshu.baidu.com.png
+          url: https://xueshu.baidu.com/
+          description: 保持学习的态度
+        - title: MBA智库
+          logo: www.mbalib.com.png
+          url: https://www.mbalib.com/
+          description: MBA智库，专注于经济管理领域的学习成长平台
+        - title: 国家科技图书文献中心
+          logo: www.nstl.gov.cn.png
+          url: https://www.nstl.gov.cn/
+          description: NSTL国家科技图书文献中心
+        - title: Google学术
+          logo: scholar.google.com.png
+          url: https://scholar.google.com/
+          description: 站在巨人的肩膀上
+        - title: PubScholar公益学术
+          logo: pubscholar.cn.png
+          url: https://pubscholar.cn/
+          description: 是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台
+       
+    - term: 博客论坛
+      links:
+        - title: CSDN博客
+          logo: blog.csdn.net.png
+          url: https://blog.csdn.net/
+          description: 专业IT技术发表平台
+        - title: 零度解说
+          logo: www.freedidi.com.png
+          url: https://www.freedidi.com/
+          description: 零度博客
+        - title: 知软博客
+          logo: www.knowr.cn.png
+          url: https://www.knowr.cn/
+          description: 免费分享软件、模板、技术教程的网站
+        
+    - term: 其他科学
+      links:
+        - title: 壹心理
+          logo: www.xinli001.com.png
+          url: https://www.xinli001.com/
+          description: 壹心理，2000万人选择的心理学服务平台。
+        - title: 元亨利贞网
+          logo: www.china95.net.png
+          url: https://www.china95.net/
+          description: 易学应用研究类综合门户网站！
+        - title: 紫微斗数在线排盘
+          logo: ziwei.pub.png
+          url: https://ziwei.pub.cn/
+          description: 全球领先的紫微斗数排盘系统，致力于打造功能强大好用的免费在线排盘软件。
+        - title: 万湖网
+          logo: www.wanhooc.com.png
+          url: https://www.wanhooc.com/
+          description: 免费算命，生辰八字算命
+        - title: 国学大师
+          logo: www.guoxuedashi.net.png
+          url: https://www.guoxuedashi.net/
+          description: 集成古典图书2万种28万卷约24亿字，基本上囊括了中国常见的古代图书，是目前网上收录古典文学作品最全最多的图书集成。
+
+- taxonomy: 建站工具
+  icon: fa-solid fa-globe
+  links:
+        - title: 站长工具
+          logo: tool.chinaz.com.png
+          url: https://tool.chinaz.com/
+          description: 站长的必备工具
+        - title: GitHub
+          logo: github.com.png
+          url: https://github.com/
+          description: GitHub 开源社区。   
+        - title: Vercel
+          logo: vercel.com.png
+          url: https://vercel.com/
+          description: Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.
+        - title: Netlify
+          logo: app.netlify.com.png
+          url: https://app.netlify.com/
+          description: Netlify is the modern development platform for Enterprises to realize the speed, agility and performance of a scalable, composable web architecture.
+        - title: 腾讯Webify
+          logo: webify.cloudbase.net.png
+          url: https://webify.cloudbase.net/
+          description: 云开发 Webify：专为 Web 开发者打造的应用托管平台，极速开发、部署、上线。  
+        - title: AWS云服务
+          logo: aws.amazon.com.png
+          url: https://aws.amazon.com/
+          description: AWS 云服务-专业的大数据和云计算服务以及云解决方案提供商
+        - title: 阿里云
+          logo: www.aliyun.com.png
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: cloud.tencent.com.png
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: www.huaweicloud.com.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: Vultr
+          logo: www.vultr.com.png
+          url: https://www.vultr.com/
+          description: Vultr Global Cloud Hosting - Brilliantly Fast SSD VPS Cloud Servers. 
+        - title: 甲骨文云
+          logo: www.oracle.com.png
+          url: https://www.oracle.com/cn/cloud/
+          description: 提供快速、灵活且经济高效的计算能力，可出色满足您的所有工作负载需求 — 从高性能裸金属实例和灵活的虚拟机到轻量级容器和无服务器计算。
+        - title: 谷歌云
+          logo: cloud.google.com.png
+          url: https://cloud.google.com/
+          description: 借助 Google 的云计算服务，包括数据管理、混合云、多云以及 AI 和机器学习方面的服务，着力应对业务挑战。
+        - title: Cloudflare
+          logo: www.cloudflare.com.png
+          url: https://www.cloudflare.com/
+          description: 发现全球连通云，连接和保护您位于任何地方的人员、应用和数据，并重新获得控制权。
+        - title: ClouDNS
+          logo: www.cloudns.net.png
+          url: https://www.cloudns.net/
+          description: ClouDNS使用全球Anycast DNS网络，让您的DNS更快，更安全。        
+        - title: 宝塔面板
+          logo: www.bt.cn.png
+          url: https://www.bt.cn/
+          description: 简单好用的Linux/Windows服务器运维管理面板。  
+        - title: aaPanel
+          logo: www.aapanel.com.png
+          url: https://www.aapanel.com/
+          description: 宝塔海外版，Free and Open source Hosting control panel. One-click LAMP/LEMP.
+        - title: NameSilo
+          logo: www.namesilo.com.png
+          url: https://www.namesilo.com/
+          description: Website Domain, Hosting, SSL, WordPress and More! 
+        - title: EU.org
+          logo: nic.eu.org.png
+          url: https://nic.eu.org/
+          description: free domain names since 1996
+        - title: 地址生成器
+          logo: www.meiguodizhi.com.png
+          url: https://www.meiguodizhi.com/
+          description: 随机生成国外地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。
+        - title: SMS-Activate
+          logo: sms-activate.org/cn.png
+          url: https://sms-activate.org/cn
+          description: 在线接受短信的虚拟号码服务
+
+- taxonomy: 三方导航
+  icon: fa-solid fa-location-arrow
+  links:      
+        - title: 抖资源
+          logo: douyin.meiweihui.cn.png
+          url: https://douyin.meiweihui.cn/
+          description: 抖音运营工具导航
+        - title: AboutPPT导航
+          logo: www.aboutppt.com.png
+          url: https://www.aboutppt.com/
+          description: PPT演示设计网址导航
+        - title: Tbox导航
+          logo: www.tboxn.com.png
+          url: https://www.tboxn.com/
+          description: Tbox 只为你收录优质的工具
+        - title: addog.vip
+          logo: www.addog.vip.png
+          url: https://www.addog.vip/
+          description: 广告人的网址导航
+        - title: 科技lion导航
+          logo: dh.kejilion.pro.png
+          url: https://dh.kejilion.pro/
+          description: 专业的云服务导航
+        - title: Cooltools
+          logo: cooltools.top.png
+          url: https://cooltools.top/
+          description: Cooltools 是一个导航网站
+        - title: 一起用AI
+          logo: 17yongai.com.png
+          url: https://17yongai.com/
+          description: AI副业搞钱套路集合站点

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>百万运营</title>
+    <style>body{display:flex;margin:0;padding:0;height:100vh;background-color:#e9fff9e0;font-family:Arial,sans-serif;flex-direction:column;justify-content:center;align-items:center}
+    h2{margin-bottom:0;font-size:24px}
+    p{margin-bottom:50px;color:#989898;font-size:14px}
+    footer{position:fixed;bottom:2px;width:100%;text-align:center;font-size:12px}
+    .header{display:flex;position:fixed;justify-content:flex-end;top:10px;right:20px;font-size:12px;text-align:right;align-items:center;color:#767676;width:80%;height:40px}
+    main{margin-top:-60px;margin-bottom:25px;padding:20px;text-align:center}
+    .button-container{display:flex;text-align:center;flex-direction:column;align-items:center}
+    .button-container .button{transition:transform .3s ease}
+    .button-container .button:hover{color:red;transform:scale(1.1)}
+    .button{display:inline-block;margin:10px;padding:16px 10px;width:200px;height:20px;border-radius:5px;color:#fff;text-align:center;text-decoration:none;font-weight:400;font-size:14px;cursor:pointer}
+    .blue{background-color:#007bff}
+    .green{background-color:#28a745}
+    .orange{background-color:#fd7e14}
+    @media (max-width:767.9px){.content{display:grid;grid-template-columns:1fr;grid-column-gap:20px}}
+    @media (min-width:768px){.content{display:grid;grid-template-columns:1fr 1fr 1fr;grid-column-gap:20px}}</style>
+</head>
+<body>
+    <div class="header">
+    <div class="yiyan" onclick="fetchHitokoto()">
+        <div id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+        fetchHitokoto();
+        });
+
+        function fetchHitokoto() {
+        fetch('https://v1.hitokoto.cn')
+            .then(response => response.json())
+            .then(data => {
+            const hitokoto = document.getElementById('hitokoto_text');
+            hitokoto.innerText = data.hitokoto;
+            document.querySelector('.yiyan').style.display = 'block'; // 数据加载成功后显示
+            })
+            .catch(error => console.error(error));
+        }
+    </script> 
+    </div>
+    
+    <div class="nav-search">
+        <a href="javascript:" data-toggle="modal" data-target="#search-modal">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </a>
+    </div>
+    <main>
+        <h2>百万新媒体运营</h2>
+        <p>这里或许有你需要的</p>
+        <div class="content">
+            <div class="button-container">
+                <a href="https://nav.newmt.fun" class="button blue" target=_blank>百万导航<span>（地址1）</span></a></div>
+            <div class="button-container">    
+                <a href="https://tool.newmt.fun" class="button green" target=_blank>百万导航<span>（地址2）</span></a></div>
+            <div class="button-container">
+                <a href="https://ai.newmt.fun" class="button orange" target=_blank>ChatGPT<span>（AI助手）</span></a></div>
+        </div>
+    </main>
+    <footer>© 2024 百万运营笔记</footer>
+</body>
+
+</html>

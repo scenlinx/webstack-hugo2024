@@ -1,0 +1,22 @@
+        <footer class="main-footer footer-type-1 text-xs">
+            <div id="footer-tools" class="d-flex flex-column">
+                <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" rel="go-top" data-toggle="tooltip" data-placement="left" title="置顶">
+                    <i class="fa-solid fa-arrow-up"></i>
+                </a>
+                <a href="https://m.newmt.fun" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
+                    <i class="fa-brands fa-weixin"></i>
+                </a>
+                {{ $nightMode := $.Site.Params.nightMode }}
+                {{ $title := cond $nightMode "夜间模式" "日间模式" }}
+                {{ $icon := cond $nightMode "fa-regular fa-moon" "fa-regular fa-sun" }}
+                
+                <a href="javascript:void(0);" onclick="switchNightMode()" class="btn rounded-circle switch-dark-mode m-1" id="yejian" data-toggle="tooltip" data-placement="left" title="{{ $title }}">
+                    <i class="{{ $icon }}"></i>
+                </a>
+            </div>
+            <div class="footer-inner">
+                <div class="footer-text">{{ replace $.Site.Params.footer.copyright "{year}" now.Year | markdownify }}</div>
+            </div>
+        </footer>
+    </div><!-- main-content end -->
+</div><!-- page-container end -->

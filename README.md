@@ -1,2 +1,6 @@
-# webstack-hugo2024
-webstack-hugo导航
+# daohang-hugo
+静态网站导航源码，部署vercel
+
+## 导航地址
+- [https://tool.newmt.fun](https://tool.newmt.fun) 
+- [https://pan.newmt.fun](https://pan.newmt.fun) 

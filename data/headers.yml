@@ -1,0 +1,16 @@
+- item: 主页
+  icon: fa-solid fa-house
+  link: "./"
+
+- item: 站长
+  icon: fa-solid fa-address-card
+  link: https://v.douyin.com/iLLbFdba
+
+- item: 更多
+  icon: fa-solid fa-angles-down
+  link: ""
+  list:
+    - name: 教程
+      url: "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"
+    - name: 图标
+      url: "https://fontawesome.com/search?q=angles&o=r&m=free"
